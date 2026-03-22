@@ -15,4 +15,4 @@ Para clonar este repositorio y probarlo, corre:
 2. Abre el archivo `registro.txt`.
 
 ## Autor
-Romanick Raga Rodríguez - [ragaromanick](https://github.com/ragaromanick)
+Romanick A Raga Rodríguez - [ragaromanick](https://github.com/ragaromanick)
